@@ -1,0 +1,2156 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "shouldTranslate" : false
+    },
+    " Stopped working on Big Sur." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停止了Big Sur的工作。"
+          }
+        }
+      }
+    },
+    "%.1f" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%.1f"
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
+    "A restart of your Mac is required to apply these changes." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要重启您的Mac以应用这些更改。"
+          }
+        }
+      }
+    },
+    "aaa" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "s"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "秒"
+          }
+        }
+      }
+    },
+    "Active apps" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活动应用程序"
+          }
+        }
+      }
+    },
+    "Active single app mode" : {
+
+    },
+    "Activity Monitor" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活动监视器"
+          }
+        }
+      }
+    },
+    "Add a quit option to the Finder. Behaves strangely when activated, would not recommend." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "给Finder添加一个退出选项。激活时表现异常，不建议使用。"
+          }
+        }
+      }
+    },
+    "Add additional counterpart suffixes that Xcode should consider in the \"Related Items > Counterparts\" menu." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在“相关项目 > 对应项”菜单中，添加Xcode应考虑的额外对应后缀。"
+          }
+        }
+      }
+    },
+    "Additional counterpart suffixes" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "附加对应后缀"
+          }
+        }
+      }
+    },
+    "Allows you to change the behavior of the function keys" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许您更改功能键的行为"
+          }
+        }
+      }
+    },
+    "Allows you to select the behavior when a key is held down for a long time." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许您选择当按键长时间按下时的行为"
+          }
+        }
+      }
+    },
+    "Allows you to select the behavior when a key is held down for a long time. The two possible behaviors are:" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许您选择在按键长时间按下时的行为。两种可能的行为是："
+          }
+        }
+      }
+    },
+    "Always show folder icon before title in the title bar" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "始终在标题栏中将文件夹图标显示在标题之前"
+          }
+        }
+      }
+    },
+    "Animation effect" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "动画效果"
+          }
+        }
+      }
+    },
+    "Apple Intelligence" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "苹果智能"
+          }
+        }
+      }
+    },
+    "Application quarantine" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用程序隔离"
+          }
+        }
+      }
+    },
+    "Auto-empty bin" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动清空废纸篓"
+          }
+        }
+      }
+    },
+    "Autogather" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动收集"
+          }
+        }
+      }
+    },
+    "Autohide animation time" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏 Dock 栏动画时长"
+          }
+        }
+      }
+    },
+    "Autohide delay" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动隐藏 Dock 栏延迟"
+          }
+        }
+      }
+    },
+    "Autohides the Dock" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "是否自动隐藏 Dock 栏"
+          }
+        }
+      }
+    },
+    "Backup volumes" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备份卷"
+          }
+        }
+      }
+    },
+    "Bool" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "布尔值"
+          }
+        }
+      }
+    },
+    "Change extension warning" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更改文件扩展名警告"
+          }
+        }
+      }
+    },
+    "Choose between Light/Medium/Firm." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请选择轻/中/硬。"
+          }
+        }
+      }
+    },
+    "Choose the delay of the auto-hidden document-proxy icon." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择自动隐藏文档代理图标的延迟时间。"
+          }
+        }
+      }
+    },
+    "Choose the screenshots image format." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择截图图片格式。"
+          }
+        }
+      }
+    },
+    "Choose the size of Finder sidebar icons" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择Finder侧边栏图标的大小"
+          }
+        }
+      }
+    },
+    "Choose what information should be shown in the app's Dock icon, if any." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择应用程序Dock图标显示的信息（如果有）。"
+          }
+        }
+      }
+    },
+    "Choose whether the Help Menu should be always-on-top." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择是否让帮助菜单始终保持在最上方。"
+          }
+        }
+      }
+    },
+    "Choose whether to autogather large files when submitting a feedback report." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择在提交反馈报告时是否自动收集大文件。"
+          }
+        }
+      }
+    },
+    "Choose whether to display a thumbnail after taking a screenshot." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择是否在截屏后显示缩略图。"
+          }
+        }
+      }
+    },
+    "Choose whether to display a warning when changing a file extension" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择是否在更改文件扩展名时显示警告"
+          }
+        }
+      }
+    },
+    "Choose whether to enable moving focus with Tab and Shift Tab." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择是否启用使用Tab和Shift+Tab键移动焦点。"
+          }
+        }
+      }
+    },
+    "Choose whether to rearrange Spaces automatically." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择是否自动重新排列空间。"
+          }
+        }
+      }
+    },
+    "Click weight" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点击重量"
+          }
+        }
+      }
+    },
+    "Clock separators" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "时钟分隔符"
+          }
+        }
+      }
+    },
+    "Close confirm changes popup" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭确认更改弹窗"
+          }
+        }
+      }
+    },
+    "com.apple.universalaccess showWindowTitlebarIcons must be set to false" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "com.apple.universalaccess 显示窗口标题栏图标必须设置为false"
+          }
+        }
+      }
+    },
+    "Connected servers" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "连接的服务器"
+          }
+        }
+      }
+    },
+    "Date and time" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日期和时间"
+          }
+        }
+      }
+    },
+    "Decimal" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小数"
+          }
+        }
+      }
+    },
+    "Default document format" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "默认文档格式"
+          }
+        }
+      }
+    },
+    "Default screenshot location" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "默认截图位置"
+          }
+        }
+      }
+    },
+    "Default search scope" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "默认搜索范围"
+          }
+        }
+      }
+    },
+    "Default view style" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "默认视图样式"
+          }
+        }
+      }
+    },
+    "Desktop" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "桌面"
+          }
+        }
+      }
+    },
+    "Developing..." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在开发"
+          }
+        }
+      }
+    },
+    "Disable screenshot shadow when capturing an app (⌘ cmd+⇧ shift+4 then space)." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "禁用截图阴影以捕获应用程序（⌘ cmd+⇧ shift+4然后空格）。"
+          }
+        }
+      }
+    },
+    "Dock" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock 栏"
+          }
+        }
+      }
+    },
+    "dock auto hide animation time" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "s"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "秒"
+          }
+        }
+      }
+    },
+    "dock auto hide delay" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "s"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "秒"
+          }
+        }
+      }
+    },
+    "dock icon size" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "px"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "像素"
+          }
+        }
+      }
+    },
+    "Dock Position" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock 栏位置"
+          }
+        }
+      }
+    },
+    "Drag a file over an icon in the Dock, hover, and the application will open. \nThe behaviour is unchanged if the app is already open. \nThis behaviour has been observed with Preview, Quicktime, and iWork (Keynote, Pages, Numbers)." : {
+      "comment" : "Chinese traditional festival"
+    },
+    "Drag a file over an icon in the Dock, hover, and the application will open. The behaviour is unchanged if the app is already open. This behaviour has been observed with Preview, Quicktime, and iWork (Keynote, Pages, Numbers)." : {
+
+    },
+    "Drag lock" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拖动锁定"
+          }
+        }
+      }
+    },
+    "Dragging" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拖动"
+          }
+        }
+      }
+    },
+    "Enable or disable mouse acceleration." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用或禁用鼠标加速。"
+          }
+        }
+      }
+    },
+    "External disks" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外部硬盘"
+          }
+        }
+      }
+    },
+    "Feedback Assistant" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反馈助手"
+          }
+        }
+      }
+    },
+    "Finder" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件管理器"
+          }
+        }
+      }
+    },
+    "Fn key usage" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fn键用法"
+          }
+        }
+      }
+    },
+    "Focus follows mouse" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "焦点跟随鼠标"
+          }
+        }
+      }
+    },
+    "Focus of the Terminal windows when the mouse cursor hovers over them. The focus change only works between the Terminal windows." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "终端窗口的焦点当鼠标光标悬停在其上时。焦点变化仅在终端窗口之间生效。"
+          }
+        }
+      }
+    },
+    "Full address" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完整地址"
+          }
+        }
+      }
+    },
+    "Function keys behavior" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "功能键行为"
+          }
+        }
+      }
+    },
+    "Group windows by application" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按应用程序组织窗口"
+          }
+        }
+      }
+    },
+    "Hard disks" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "硬盘"
+          }
+        }
+      }
+    },
+    "Help menu position" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帮助菜单位置"
+          }
+        }
+      }
+    },
+    "Hidden files" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏文件"
+          }
+        }
+      }
+    },
+    "Hide all icons on desktop." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏桌面上的所有图标。"
+          }
+        }
+      }
+    },
+    "Hide icons" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏图标"
+          }
+        }
+      }
+    },
+    "Icon size" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "图标大小"
+          }
+        }
+      }
+    },
+    "Icon type" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "图标类型"
+          }
+        }
+      }
+    },
+    "If you have several windows from multiple apps open simultaneously, have the windows organised by app in Mission Control." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果您同时打开了多个应用程序的几个窗口，请在任务控制中按应用程序组织窗口。"
+          }
+        }
+      }
+    },
+    "Include date and time in screenshot filenames." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在截图文件名中包含日期和时间。"
+          }
+        }
+      }
+    },
+    "Input text" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入文本"
+          }
+        }
+      }
+    },
+    "Integer" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "整数"
+          }
+        }
+      }
+    },
+    "Keep folders" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保持文件夹"
+          }
+        }
+      }
+    },
+    "Keep folders on top" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保持文件夹在顶部"
+          }
+        }
+      }
+    },
+    "Keep folders on top when sorting by name." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按名称排序时，保持文件夹在顶部。"
+          }
+        }
+      }
+    },
+    "Keep folders on top when sorting." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按名称排序时，保持文件夹在顶部。"
+          }
+        }
+      }
+    },
+    "Keep windows when quitting an application" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出应用程序时保持窗口。"
+          }
+        }
+      }
+    },
+    "Key held down behavior" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按名称排序时，保持文件夹在顶部。"
+          }
+        }
+      }
+    },
+    "Keyboard" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "键盘"
+          }
+        }
+      }
+    },
+    "Keyboard navigation" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "键盘导航"
+          }
+        }
+      }
+    },
+    "Language indicator" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "语言指示器"
+          }
+        }
+      }
+    },
+    "Menu Bar" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "任务栏"
+          }
+        }
+      }
+    },
+    "Messages" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "信息"
+          }
+        }
+      }
+    },
+    "Miscellaneous" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "杂项"
+          }
+        }
+      }
+    },
+    "Mission Control" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "多任务窗口"
+          }
+        }
+      }
+    },
+    "Mouse" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鼠标"
+          }
+        }
+      }
+    },
+    "Mouse acceleration" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鼠标加速度"
+          }
+        }
+      }
+    },
+    "Mouse speed" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鼠标速度"
+          }
+        }
+      }
+    },
+    "Music notifications" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "音乐通知"
+          }
+        }
+      }
+    },
+    "Mutually exclusive with Dragging and DragLock." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与拖动和拖动锁定互斥。"
+          }
+        }
+      }
+    },
+    "Mutually exclusive with Dragging and TrackpadThreeFingerDrag." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与“拖动”和“三指拖动”互斥。"
+          }
+        }
+      }
+    },
+    "Mutually exclusive with DragLock and TrackpadThreeFingerDrag." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与DragLock和TrackpadThreeFingerDrag互斥。"
+          }
+        }
+      }
+    },
+    "No data" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没数据"
+          }
+        }
+      }
+    },
+    "No setting item in this group." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "该分类下暂无设置项"
+          }
+        }
+      }
+    },
+    "Only show active applications in Dock." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅在 Dock 中显示活动应用程序。"
+          }
+        }
+      }
+    },
+    "Open folder destination" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开文件夹目的地"
+          }
+        }
+      }
+    },
+    "Path bar" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "路径栏"
+          }
+        }
+      }
+    },
+    "Please select a setting category from the left." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请从左侧选择一个设置分类"
+          }
+        }
+      }
+    },
+    "Prevent Time Machine from prompting to use newly connected storage as backup volumes." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "防止时间机器提示使用新连接的存储作为备份卷。"
+          }
+        }
+      }
+    },
+    "Quit" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出"
+          }
+        }
+      }
+    },
+    "Quit option" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出选项"
+          }
+        }
+      }
+    },
+    "Rearrange Spaces automatically" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动重新排列空间"
+          }
+        }
+      }
+    },
+    "Recent apps" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近的应用程序"
+          }
+        }
+      }
+    },
+    "Removable media" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可移动媒体"
+          }
+        }
+      }
+    },
+    "Remove items in the bin after 30 days" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30天后删除垃圾桶中的项目"
+          }
+        }
+      }
+    },
+    "Requires a logout to take effect." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要注销才能生效。"
+          }
+        }
+      }
+    },
+    "Restarting the Mac or closing the session is necessary to take the changes into effect." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重启Mac或关闭会话是使更改生效的必要步骤。"
+          }
+        }
+      }
+    },
+    "Restarting the Mac, closing the session or restarting the application is necessary to take into effect the changes." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重启Mac、关闭会话或重新启动应用程序是使更改生效的必要步骤。"
+          }
+        }
+      }
+    },
+    "Safari" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safari 浏览器"
+          }
+        }
+      }
+    },
+    "Save to disk location" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存到磁盘位置"
+          }
+        }
+      }
+    },
+    "Screenshot format" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截图格式"
+          }
+        }
+      }
+    },
+    "Screenshot shadow" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截图阴影"
+          }
+        }
+      }
+    },
+    "Screenshots" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截图"
+          }
+        }
+      }
+    },
+    "Scroll up mode" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "滚动向上模式"
+          }
+        }
+      }
+    },
+    "Scroll up on a Dock icon to show all Space's opened windows for an app, or open stack." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Dock 图标上向上滚动，以显示一个应用或堆叠打开的所有空间窗口。"
+          }
+        }
+      }
+    },
+    "Selected" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已选定"
+          }
+        }
+      }
+    },
+    "Separate spaces for each display" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "为每个显示器设置独立的空间"
+          }
+        }
+      }
+    },
+    "Set default document format as rich text (.rtf) or plain text (.txt)." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将默认文档格式设置为富文本（.rtf）或纯文本（.txt）。"
+          }
+        }
+      }
+    },
+    "Set default screenshot location." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置默认截图位置。"
+          }
+        }
+      }
+    },
+    "Set if quotation marks should be converted from neutral form to opening/closing variants." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置是否将引号从中性形式转换为开/闭变体。"
+          }
+        }
+      }
+    },
+    "Set movement speed of the mouse cursor." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置鼠标光标移动速度。"
+          }
+        }
+      }
+    },
+    "Set the default location for saving files to disk" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置默认保存文件到磁盘的位置"
+          }
+        }
+      }
+    },
+    "Set the default search scope when performing a search" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置搜索时的默认搜索范围"
+          }
+        }
+      }
+    },
+    "Set the default view style for folders without custom setting" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置未自定义设置的文件夹的默认视图样式"
+          }
+        }
+      }
+    },
+    "Set up separate spaces for each display (if you use Spaces and have multiple displays)." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "为每个显示器设置独立的空间（如果您使用“空间”并拥有多个显示器）。"
+          }
+        }
+      }
+    },
+    "Set whether folders shown in the Finder open in a new tab or a new window when using ⌘ cmd+double-click, and which option is shown in the context menu." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置在Finder中显示的文件夹在使用⌘ cmd+双击时是在新标签页还是新窗口中打开，以及哪个选项在上下文菜单中显示。"
+          }
+        }
+      }
+    },
+    "Settings tab: Activity Monitor" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Activity Monitor"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活动监视器"
+          }
+        }
+      }
+    },
+    "Settings tab: Desktop" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Desktop"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "桌面"
+          }
+        }
+      }
+    },
+    "Settings tab: Dock" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Dock"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock 栏"
+          }
+        }
+      }
+    },
+    "Settings tab: Feedback Assistant" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Feedback Assistant"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反馈助手"
+          }
+        }
+      }
+    },
+    "Settings tab: Finder" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Finder"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找器"
+          }
+        }
+      }
+    },
+    "Settings tab: Keyboard" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Keyboard"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "键盘"
+          }
+        }
+      }
+    },
+    "Settings tab: Menu Bar" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Menu Bar"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "菜单栏"
+          }
+        }
+      }
+    },
+    "Settings tab: Messages" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Messages"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "信息"
+          }
+        }
+      }
+    },
+    "Settings tab: Miscellaneous" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Miscellaneous"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "杂项"
+          }
+        }
+      }
+    },
+    "Settings tab: Mission Control" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mission Control"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "任务控制"
+          }
+        }
+      }
+    },
+    "Settings tab: Mouse" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mouse"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鼠标"
+          }
+        }
+      }
+    },
+    "Settings tab: Safari" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Safari"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "浏览器"
+          }
+        }
+      }
+    },
+    "Settings tab: Screenshots" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Screenshots"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "截图"
+          }
+        }
+      }
+    },
+    "Settings tab: Simulator" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模拟器"
+          }
+        }
+      }
+    },
+    "Settings tab: TextEdit" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "TextEdit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文本编辑"
+          }
+        }
+      }
+    },
+    "Settings tab: Time Machine" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Time Machine"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "时间机器"
+          }
+        }
+      }
+    },
+    "Settings tab: Trackpad" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Trackpad"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "触控板"
+          }
+        }
+      }
+    },
+    "Settings tab: Xcode" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Xcode"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "Settings…" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置…"
+          }
+        }
+      }
+    },
+    "Should you be asked to keep changes when closing documents or just have changes saved automatically. Requires closing and opening the app before working. Tested on Apple Preview." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当关闭文档时是否需要保留更改，或者只是自动保存更改。需要在工作前关闭并打开应用程序。已在Apple Preview上测试。"
+          }
+        }
+      }
+    },
+    "Show all file extensions in the Finder." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在Finder中显示所有文件扩展名。"
+          }
+        }
+      }
+    },
+    "Show build durations" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示构建持续时间"
+          }
+        }
+      }
+    },
+    "Show build durations in the Activity Viewer in Xcode's toolbar at the top of the workspace window." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在Xcode工作区窗口顶部的工具栏中，在活动查看器中显示构建持续时间。"
+          }
+        }
+      }
+    },
+    "Show connected servers on desktop." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在桌面上显示连接的服务器。"
+          }
+        }
+      }
+    },
+    "Show extensions" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示扩展"
+          }
+        }
+      }
+    },
+    "Show external disks on desktop." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在桌面上显示外部磁盘。"
+          }
+        }
+      }
+    },
+    "Show full website address." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示完整网站地址。"
+          }
+        }
+      }
+    },
+    "Show hard disks on desktop." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示桌面上的硬盘。"
+          }
+        }
+      }
+    },
+    "Show hidden files in the Finder. You can toggle the value using ⌘ cmd+⇧ shift+.." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在Finder中显示隐藏文件。您可以使用⌘ cmd+⇧ shift+..切换值。"
+          }
+        }
+      }
+    },
+    "Show notifications for songs that are playing in the Music app." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示正在音乐应用中播放的歌曲的通知。"
+          }
+        }
+      }
+    },
+    "Show path bar in the bottom of the Finder windows" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在Finder窗口底部显示路径栏"
+          }
+        }
+      }
+    },
+    "Show recent apps in Dock." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Dock 中显示最近的应用。"
+          }
+        }
+      }
+    },
+    "Show removable media (CDs, DVDs and iPods) on desktop." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在桌面上显示可移动媒体（CD、DVD和iPod）。"
+          }
+        }
+      }
+    },
+    "Show the location of the wallpaper in the Dock." : {
+
+    },
+    "Show the subject field which appears above the iMessage/Text Message field in Messages. Text entered in the subject field will be sent in bold (unless there is no text in the iMessage/Text Message field; in this case, the text in the subject field will be sent without the bold effect)." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示在“消息”中位于iMessage/短信字段上方的主题字段。在主题字段中输入的文本将以粗体形式发送（除非iMessage/短信字段中没有文本；在这种情况下，主题字段中的文本将以无粗体效果的形式发送）。"
+          }
+        }
+      }
+    },
+    "Show wallpaper location" : {
+
+    },
+    "Sidebar icon size" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "侧边栏图标大小"
+          }
+        }
+      }
+    },
+    "Simulator" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模拟器"
+          }
+        }
+      }
+    },
+    "Single App Mode" : {
+
+    },
+    "Smart quotes" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "智能引号"
+          }
+        }
+      }
+    },
+    "Spring loading for all Dock" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有Dock的弹簧加载"
+          }
+        }
+      }
+    },
+    "String" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字符串"
+          }
+        }
+      }
+    },
+    "Subject field" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主题字段"
+          }
+        }
+      }
+    },
+    "Switch to space with open windows" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换到包含打开窗口的空间"
+          }
+        }
+      }
+    },
+    "Text Edit" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文本编辑器"
+          }
+        }
+      }
+    },
+    "The animation effect for the Dock to minimize." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock最小化时的动画效果。"
+          }
+        }
+      }
+    },
+    "The delay time for the Dock to autohide." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock自动隐藏时的延迟时间。"
+          }
+        }
+      }
+    },
+    "The Dock will automatically hide when it is not in use." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当不使用时，Dock会自动隐藏。"
+          }
+        }
+      }
+    },
+    "The frequency of the Activity Monitor to update." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activity Monitor的更新频率。"
+          }
+        }
+      }
+    },
+    "The position of the Dock." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock的位置。"
+          }
+        }
+      }
+    },
+    "The size of the Dock items." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock项的大小。"
+          }
+        }
+      }
+    },
+    "The time it takes for the Dock to autohide." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock自动隐藏的时间。"
+          }
+        }
+      }
+    },
+    "This command requires to grant full disk access to the terminal (System Preferences → Security & Privacy → Full Disk Access)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此命令需要授予终端（系统偏好设置→安全与隐私→完整磁盘访问）完全磁盘访问权限"
+          }
+        }
+      }
+    },
+    "This setting configures the time and date format for the Menu Bar digital clock. Accepted values depend on your Language & Region settings." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此设置配置菜单栏数字时钟的时间和日期格式。接受的值取决于您的语言和区域设置。"
+          }
+        }
+      }
+    },
+    "Three finger drag" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "三指拖动"
+          }
+        }
+      }
+    },
+    "Thumbnail" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缩略图"
+          }
+        }
+      }
+    },
+    "Time and date format" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "时间和日期格式"
+          }
+        }
+      }
+    },
+    "Time Machine" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "时间机器"
+          }
+        }
+      }
+    },
+    "Title bar icons" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标题栏图标"
+          }
+        }
+      }
+    },
+    "Title rollover delay" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标题悬停延迟"
+          }
+        }
+      }
+    },
+    "Toggle Apple Intelligence." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Apple Intelligence."
+          }
+        }
+      }
+    },
+    "Trackpad" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "触控板"
+          }
+        }
+      }
+    },
+    "Turn off the “Application Downloaded from Internet” quarantine warning." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭“从互联网下载的应用”隔离警告。"
+          }
+        }
+      }
+    },
+    "Turn off the language indicator while switching input sources." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换输入源时关闭语言指示器。"
+          }
+        }
+      }
+    },
+    "Update frequency" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新频率"
+          }
+        }
+      }
+    },
+    "When enabled, open documents and windows will be restored when you re-open an application." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当启用时，重新打开应用程序时，将恢复打开的文档和窗口。"
+          }
+        }
+      }
+    },
+    "When enabled, the clock indicator (which by default is the colon) will flash on and off each second." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当启用时，时钟指示器（默认为冒号）将每秒闪烁一次。"
+          }
+        }
+      }
+    },
+    "When switching to an app, switch to a space with open windows for this app." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换到应用时，切换到包含此应用打开窗口的空间。"
+          }
+        }
+      }
+    },
+    "Xcode" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编译器"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
