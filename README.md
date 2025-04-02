@@ -3,7 +3,9 @@
     <h1>System Defaults Editor</h1>
 </div>
 
-![Banner](https://raw.githubusercontent.com/Nekomi-Kokadaigaku/System_Defaults_Editor/refs/heads/main/System_Defaults_Editor/System_Defaults_Editor/Application/Assets.xcassets/AppIcon.appiconset/screenshot.png)
+<div align="center">
+    <img src="System_Defaults_Editor/System_Defaults_Editor/Application/Assets.xcassets/screenshot.imageset/screenshot.png">
+</div>
 
 ![Platform](https://img.shields.io/badge/platform-macOS-blue?style=flat-square)
 
