@@ -504,6 +504,12 @@
         }
       }
     },
+    "disable animations when you open an application from the Dock" : {
+
+    },
+    "Disable Dock animations" : {
+
+    },
     "Disable screenshot shadow when capturing an app (⌘ cmd+⇧ shift+4 then space)." : {
       "localizations" : {
         "zh-Hans" : {
