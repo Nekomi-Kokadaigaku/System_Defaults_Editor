@@ -33,6 +33,38 @@ git clone https://github.com/Nekomi-Kokadaigaku/System_Defaults_Editor.git
 cd System_Defaults_Editor
 ```
 
+## Something need to Know
+
+### What's a `defaults` command?([From](https://macos-defaults.com/#:~:text=macOS%20applications%20and,sometimes%20they%27re%20hidden.))
+
+macOS applications and other programs use the defaults system to record user preferences and other information to be maintained when the application isn't running (font for new documents, or the position of an Info panel). Much of this information is accessible through an application's Preferences panel but sometimes they're hidden.
+
+User defaults belong to domains, which typically correspond to individual applications. Applications, system services, and other programs have their own domains, they also share a domain named NSGlobalDomain. If a default isn't specified in the application's domain, it may be specified in NSGlobalDomain.
+
+Each domain has a dictionary of keys and values representing its defaults; e.g. "Default Font" = "Helvetica". Keys are strings, values can be complex data structures comprising arrays, dictionaries, strings, and binary data. They're stored as XML Property List.
+
+The defaults command line interface is a way to interact with these values.
+
+### Command line interface basics
+
+Print the help
+
+```zsh
+defaults help
+```
+
+List all domains
+
+``` zsh
+defaults domains
+```
+
+List all entries containing word
+
+```zsh
+defaults find ${word}
+```
+
 ## Others
 
 - **Data Source**: [https://macos-defaults.com/](https://macos-defaults.com/)
